@@ -3,11 +3,11 @@
     <SceneSection id="Ghibli">
       <TextBlock>
         <p>
-          Before designing for web, I was 
+          Before designing for web, I was creating
           <span class="-big -purple">
-            learning python and 
+            3D models, matte painting and advertisements
           </span>
-          i was fond of Machine Learning
+          for many brands, TV commercials, games...
         </p>
       </TextBlock>
 
@@ -29,11 +29,13 @@
         <p class="-big">
           And studying
           <span class="-purple"
-            >Philosophy, Japaneses Sketches.</span
+            >Philosophy, Japanese animation, fine arts and video games.</span
           >
         </p>
         <p>
-          All of these subjects have a major impact on how I create WebPages.
+          All of these subjects have a major impact on how I start and develop
+          my creative processes, leading the way on how I view web development
+          today.
         </p>
       </TextBlock>
     </SceneSection>
