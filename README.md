@@ -26,15 +26,8 @@ npm install
 ```
 npm start
 ```
+some dependencies are very old and are replaced by the alternatives so please refer to package.json for versions of dependencies to meet build.
 
 That's it 🎉
 
 ---
-
-### New version 🚧
-
-I'm currently working on a new portfolio to replace this old one, but since many people's still visiting this one today, I decided to refactor it and make this code more re-usable for all of you. So please be patient! 
-
-I'll publish a new versions built with React Hooks and Vue's composition API. 
-The main idea will be to allow you guys to re-use/build animated components easily on your own projects, based on GSAP 3 and ScrollTrigger.
-
