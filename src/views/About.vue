@@ -2,7 +2,7 @@
   <div id="about" class="wrapper">
     <div class="pic"></div>
     <div class="static-container">
-      <h1 class="title">about(<span class="params">iuri</span>)</h1>
+      <h1 class="title">about(<span class="params">me</span>)</h1>
 
       <TextBlock>
         <div class="first-fold">

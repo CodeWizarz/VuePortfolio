@@ -7,20 +7,19 @@
     <SceneSection id="biz1">
       <TextBlock>
         <p class="-big">
-          From 2011 to 2019 I was
-          <strong class="-purple">Head of Frontend</strong>
+          From 2022 to 2023 I was
+          <strong class="-purple">Contribution to</strong>
           @
           <a
-            href="https://www.bizcommerce.com.br/"
+            href="#"
             target="_blank"
             title="Visit Biz Commerce's website"
           >
-            biz</a
+            Gsoc</a
           >.
         </p>
         <p>
-          A SaaS e-commerce platform focused on simplifying and customizing the
-          use of Magento.
+          Worked on major Open Source Orgs like Oppia,Blender,Drupal.
         </p>
       </TextBlock>
       <template #container>
@@ -38,15 +37,15 @@
     <SceneSection id="biz2">
       <TextBlock>
         <p>
-          Throughout these years we delivered hundreds of
+          Throughout these years I contributed 
           <span class="-big -purple">
-            tools, modules, integrations, and custom projects
+            to many projects and worked with the 
           </span>
-          for online stores and service providers.
+          team of professional developers.
         </p>
       </TextBlock>
     </SceneSection>
-    <SceneSection id="biz3">
+    <!-- <SceneSection id="biz3">
       <TextBlock>
         <p>
           biz currently runs
@@ -57,7 +56,7 @@
           </span>
         </p>
       </TextBlock>
-    </SceneSection>
+    </SceneSection> -->
   </div>
 </template>
 

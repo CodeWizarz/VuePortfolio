@@ -19,7 +19,7 @@
         <p>Design & illustration.</p>
         <p class="-big">
           A frontend developer<br />
-          <span class="-purple">with one foothold in arts.</span>
+          <span class="-purple">with one foothold in Machine Learning.</span>
         </p>
       </TextBlock>
     </SceneSection>

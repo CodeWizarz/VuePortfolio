@@ -7,7 +7,7 @@
       </h1>
 
       <TextBlock>
-        <p class="-purple">Iuri de Paula</p>
+        <p class="-purple">CodeWizarz</p>
         <p class="-gray">Creative frontend developer</p>
       </TextBlock>
     </div>
