@@ -1,8 +1,8 @@
 <template>
   <footer class="footer">
-    <p>Made with 🤍 in 2018</p>
+    <p>Made with 🤍 in 2023</p>
     
-    <p>awwwards.winner:</p>
+    <!-- <p>awwwards.winner:</p>
     <ul class="awwwards">
       <li>
         <a href="https://www.awwwards.com/sites/iuri-is" target="_blank"
@@ -52,8 +52,8 @@
           </svg>
         </a>
       </li>
-    </ul>
-  </footer>
+    </ul> -->
+  </footer> 
 </template>
 
 <script>
