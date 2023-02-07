@@ -5,7 +5,7 @@ import NProgress from 'nprogress'
 
 Vue.use(Router)
 
-const TITLE = 'Wizz.is'
+const TITLE = 'Wizz.while'
 const URL = 'https://wizarz.netlify.app/' // site url.still updating empty for now
 const ABOUT =
   'Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.'
