@@ -2,7 +2,7 @@
   <div class="earlyDays">
     <TitleSection scene="earlyTitle">
       <TitleFunction
-        params="2008,2011"
+        params="2021,2022"
         subtitle="&lt;table&gt;&lt;tr&gt;&lt;td&gt;..."
         >earlyDays</TitleFunction
       >
@@ -11,15 +11,15 @@
       <Pepe v-bind="{ isPlaying }" />
       <div class="clouds cloud-2"></div>
       <div class="clouds cloud-3"></div>
-      <Ocean v-bind="{ isPlaying }" />
+      <!-- <Ocean v-bind="{ isPlaying }" /> -->
     </TitleSection>
 
     <SceneSection id="early-days">
       <TextBlock>
-        <p>Design & illustration.</p>
+        <p>Python & data scientist.</p>
         <p class="-big">
-          A frontend developer<br />
-          <span class="-purple">with one foothold in arts.</span>
+          A python developer<br />
+          <span class="-purple">with one foothold in AI.</span>
         </p>
       </TextBlock>
     </SceneSection>
