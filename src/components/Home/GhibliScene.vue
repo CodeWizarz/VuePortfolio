@@ -5,7 +5,7 @@
         <p>
           Before web designing, I was creating
           <span class="-big -purple">
-            3D models, sketches and discord bots
+            3D models,sketches and discord bots
           </span>
           for various communities in the Discord
         </p>
@@ -29,7 +29,7 @@
         <p class="-big">
           And learning about
           <span class="-purple"
-            >Philosophy, Blockchain, Cryptocurrency and solidity.</span
+            >Philosophy, Blockchain,Cryptocurrency and solidity.</span
           >
         </p>
         <p>
