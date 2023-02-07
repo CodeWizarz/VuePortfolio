@@ -60,7 +60,7 @@ const router = new Router({
       name: '.about()',
       component: () => import('./views/About.vue'),
       meta: {
-        title: 'iuri.about',
+        title: 'wizz.about',
         bodyClass: 'page-about',
         metaTags: [
           {
@@ -70,7 +70,7 @@ const router = new Router({
           // facebook
           {
             name: 'og:title',
-            content: 'iuri.about',
+            content: 'wizz.about',
           },
           {
             name: 'og:url',
@@ -83,7 +83,7 @@ const router = new Router({
           // twitter
           {
             name: 'twitter:title',
-            content: 'iuri.about',
+            content: 'wizz.about',
           },
           {
             name: 'twitter:url',
@@ -106,7 +106,7 @@ const router = new Router({
       name: `.err(404)`,
       component: () => import('./views/404.vue'),
       meta: {
-        title: `iuri.err(404)`,
+        title: `wizz.err(404)`,
         bodyClass: 'page-err404',
         metaTags: [
           {
@@ -116,7 +116,7 @@ const router = new Router({
           // facebook
           {
             name: 'og:title',
-            content: `iuri.err(404)`,
+            content: `wizz.err(404)`,
           },
           {
             name: 'og:url',
@@ -129,7 +129,7 @@ const router = new Router({
           // twitter
           {
             name: 'twitter:title',
-            content: `iuri.err(404)`,
+            content: `wizz.err(404)`,
           },
           {
             name: 'twitter:url',
