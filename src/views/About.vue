@@ -188,7 +188,7 @@ export default {
     width: 43vw;
     aspect-ratio: 1/1;
     border-radius: 100%;
-    background-image: url(../assets/me.jpg);
+    background-image: url(../assets/profipic.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
