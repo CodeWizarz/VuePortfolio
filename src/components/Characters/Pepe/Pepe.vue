@@ -234,18 +234,18 @@ export default {
   }
 }
 
-.pepe {
-  position: relative;
-  z-index: 2;
-  transform: scale(0.6);
-  transform-origin: 0 0;
+// .pepe {
+//   position: relative;
+//   z-index: 2;
+//   transform: scale(0.6);
+//   transform-origin: 0 0;
 
-  &.bg-head {
-    width: 1262px;
-    height: 1651px;
-    background: url('./assets/head.png') -1262px 0 no-repeat;
-    background-size: 200% 100%;
-  }
+//   &.bg-head {
+//     width: 1262px;
+//     height: 1651px;
+//     background: url('./assets/head.png') -1262px 0 no-repeat;
+//     background-size: 200% 100%;
+//   }
   div {
     position: absolute;
   }
