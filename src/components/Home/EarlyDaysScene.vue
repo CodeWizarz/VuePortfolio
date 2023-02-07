@@ -23,8 +23,8 @@
         </p>
       </TextBlock>
     </SceneSection>
-    <SceneSection id="early-days2">
-      <TextBlock>
+    <!-- <SceneSection id="early-days2"> -->
+      <!-- <TextBlock>
         <p class="-big">
           <span class="-purple">Freelancing</span> &
           <span class="-purple">startuping,</span><br />
@@ -36,9 +36,9 @@
           And designing websites, online magazines, and news portals at my first
           web studio.<br />
         </p>
-      </TextBlock>
-    </SceneSection>
-    <SceneSection id="early-days3">
+      </TextBlock> -->
+    <!-- </SceneSection> -->
+    <!-- <SceneSection id="early-days3">
       <TextBlock>
         <p>
           We've proudly fueled the starring<br />
@@ -50,7 +50,7 @@
           among many others...
         </p>
       </TextBlock>
-    </SceneSection>
+    </SceneSection> -->
   </div>
 </template>
 
