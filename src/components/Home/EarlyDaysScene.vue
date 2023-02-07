@@ -23,7 +23,7 @@
         </p>
       </TextBlock>
     </SceneSection>
-    <!-- <SceneSection id="early-days2"> -->
+    <SceneSection id="early-days2">
       <!-- <TextBlock>
         <p class="-big">
           <span class="-purple">Freelancing</span> &
@@ -37,8 +37,8 @@
           web studio.<br />
         </p>
       </TextBlock> -->
-    <!-- </SceneSection> -->
-    <!-- <SceneSection id="early-days3">
+    </SceneSection>
+    <SceneSection id="early-days3"> 
       <TextBlock>
         <p>
           We've proudly fueled the starring<br />
@@ -50,7 +50,7 @@
           among many others...
         </p>
       </TextBlock>
-    </SceneSection> -->
+    </SceneSection> 
   </div>
 </template>
 
