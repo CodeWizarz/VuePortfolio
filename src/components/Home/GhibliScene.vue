@@ -3,11 +3,11 @@
     <SceneSection id="Ghibli">
       <TextBlock>
         <p>
-          Before designing for web, I was creating
+          Before web designing, I was creating
           <span class="-big -purple">
-            3D models, matte painting and advertisements
+            3D models, sketches and discord bots
           </span>
-          for many brands, TV commercials, games...
+          for various communities in the Discord
         </p>
       </TextBlock>
 
@@ -27,15 +27,14 @@
     <SceneSection id="Ghibli3">
       <TextBlock>
         <p class="-big">
-          And studying
+          And learning about
           <span class="-purple"
-            >Philosophy, Japanese animation, fine arts and video games.</span
+            >Philosophy, Blockchain, Cryptocurrency and solidity.</span
           >
         </p>
         <p>
-          All of these subjects have a major impact on how I start and develop
-          my creative processes, leading the way on how I view web development
-          today.
+          All of these subjects have a major impact on how I design
+          the webpage.
         </p>
       </TextBlock>
     </SceneSection>

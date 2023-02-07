@@ -9,17 +9,17 @@
         <div class="cols">
           <ul class="col">
             <li class="ico">(){&lt;/&gt;}</li>
-            <li>Vue 2</li>
-            <li>GSAP 2</li>
+            <li>Vue Js</li>
+            <li>GSAP</li>
             <li>ScrollMagic</li>
-            <li>Photoshop</li>
-            <li>Illustrator</li>
+            <!-- <li>Photoshop</li> -->
+            <!-- <li>Illustrator</li> -->
           </ul>
           <ul class="col">
             <li class="ico">~</li>
-            <li>+62 cups of coffee</li>
-            <li>Endless references</li>
-            <li>2 easter eggs</li>
+            <a href="https://github.com/iuridepaula"><li >Light Reference from</li></a>
+            <li>Endless dependencies</li>
+            <li>60-day span</li>
           </ul>
           <ul class="col songs">
             <li class="ico">
