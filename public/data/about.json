@@ -41,37 +41,9 @@
     {
       "position": "Lead Frontend Engineer",
       "company": "Proof Of Memes",
-      "time": "* current"
-    },
-    // {
-    //   "position": "Senior Frontend Engineer",
-    //   "company": "ON AG",
-    //   "time": "2020-2022"
-    // },
-    // {
-    //   "position": "Senior Frontend Engineer",
-    //   "company": "fromAtoB",
-    //   "time": "2019-2020"
-    // },
-    // {
-    //   "position": "Head of Frontend & UX",
-    //   "company": "Microsofy",
-    //   "time": "2023 - 2024"
-    // },
-    // {
-    //   "position": "Senior Frontend Developer",
-    //   "company": "Tray",
-    //   "time": "2008 - 2010"
-    // },
-    // {
-    //   "position": "Web Designer",
-    //   "company": "E2W",
-    //   "time": "2006 - 2008"
-    // },
-    // {
-    //   "position": "Freelancer",
-    //   "company": "Illustrations & Web development"
-    // }
+      "time": "2022-2023"
+    }
+    
   ],
   "languages": {
     "fluent": [
@@ -79,10 +51,10 @@
       ["pt-BR", "German"]
     ],
     "intermediate": [["es-ES", "Español"]],
-    // "basic": [
-    //   ["de-DE", "Deutsch"],
-    //   ["ca-ES", "Català"]
-    // ]
+    "basic": [
+      ["de-DE", "Deutsch"],
+      ["ca-ES", "Català"]
+    ]
   },
   "busy": ["Pet my cat", "Light guitar", "Games", "#olá", "Hallo"]
 }
