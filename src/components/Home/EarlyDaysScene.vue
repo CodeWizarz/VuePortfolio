@@ -11,15 +11,15 @@
       <Pepe v-bind="{ isPlaying }" />
       <div class="clouds cloud-2"></div>
       <div class="clouds cloud-3"></div>
-      <!-- <Ocean v-bind="{ isPlaying }" /> -->
+      <Ocean v-bind="{ isPlaying }" />
     </TitleSection>
 
     <SceneSection id="early-days">
       <TextBlock>
-        <p>Python & data scientist.</p>
+        <p>Data scientist.</p>
         <p class="-big">
           A python developer<br />
-          <span class="-purple">with one foothold in AI.</span>
+          <span class="-purple">with one foothold in AI & ML.</span>
         </p>
       </TextBlock>
     </SceneSection>
