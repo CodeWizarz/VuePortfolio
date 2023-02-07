@@ -15,7 +15,7 @@
             target="_blank"
             title="Visit Biz Commerce's website"
           >
-            biz</a
+            Microsoft</a
           >.
         </p>
         <p>
