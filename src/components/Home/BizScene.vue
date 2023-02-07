@@ -7,21 +7,21 @@
     <SceneSection id="biz1">
       <TextBlock>
         <p class="-big">
-          From 2011 to 2019 I was
-          <strong class="-purple">Head of Frontend</strong>
+          From 2023 to 2024 I was
+          <strong class="-purple">a intern</strong>
           @
           <a
-            href="https://www.bizcommerce.com.br/"
+            href="https://www.microsoft.com/"
             target="_blank"
             title="Visit Biz Commerce's website"
           >
             Microsoft</a
           >.
         </p>
-        <p>
+        <!-- <p>
           A SaaS e-commerce platform focused on simplifying and customizing the
           use of Magento.
-        </p>
+        </p> -->
       </TextBlock>
       <template #container>
         <ABiz :isPlaying="isPlaying" />
