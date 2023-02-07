@@ -38,22 +38,20 @@
     <SceneSection id="biz2">
       <TextBlock>
         <p>
-          Throughout these years we delivered hundreds of
+          Throughout these years i have contributed to hundreds of
           <span class="-big -purple">
-            tools, modules, integrations, and custom projects
+          custom projects, repositories, integrations, and implementation
           </span>
-          for online stores and service providers.
+          for the microsoft team and it's members.
         </p>
       </TextBlock>
     </SceneSection>
     <SceneSection id="biz3">
       <TextBlock>
         <p>
-          biz currently runs
-          <span class="-big">
-            <span class="-purple">+1200 stores</span>, payment & shipping
-            integrations with
-            <span class="-purple">thousands of transactions</span> daily.
+          Microsoft offers a wide range of products and services           <span class="-big">
+            <span class="-purple">Some of their popular offerings include</span>, Windows, Office 365, Azure, Surface, Xbox
+            <span class="-purple">and</span> Dynamics 365.
           </span>
         </p>
       </TextBlock>
