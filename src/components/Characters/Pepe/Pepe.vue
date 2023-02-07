@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <div>
     <div class="pepe bg-head">
       <div class="blink"></div>
@@ -40,7 +40,7 @@
       <div class="bonfim-church"></div>
       <div class="bonfim b1"></div>
 
-      <div class="ear bg-head-ear"></div>
+      <!-- <div class="ear bg-head-ear"></div> -->
     </div>
   </div>
 </template>
@@ -95,20 +95,20 @@ export default {
       this.initParticles()
 
       // head
-      const ampa_parrot = document.querySelector('.bg-ampa_parrot_wing')
-      const metal_sax = document.querySelector('.bg-metals_sax')
-      const metal_trumpet = document.querySelector('.bg-metals_trumpet')
-      const metal_trombone = document.querySelector('.bg-metals_trombone')
-      const metal_trombone_thing = document.querySelector(
-        '.bg-metals_trombone_thing'
-      )
-      const pepe = document.querySelector('.pepe')
-      const blink = document.querySelector('.pepe .blink')
-      const ear = document.querySelector('.bg-head-ear')
-      const rhythm = 0.3
+      // const ampa_parrot = document.querySelector('.bg-ampa_parrot_wing')
+      // const metal_sax = document.querySelector('.bg-metals_sax')
+      // const metal_trumpet = document.querySelector('.bg-metals_trumpet')
+      // const metal_trombone = document.querySelector('.bg-metals_trombone')
+      // const metal_trombone_thing = document.querySelector(
+      //   '.bg-metals_trombone_thing'
+      // )
+      // const pepe = document.querySelector('.pepe')
+      // const blink = document.querySelector('.pepe .blink')
+      // const ear = document.querySelector('.bg-head-ear')
+      // const rhythm = 0.3
 
-      this.loop
-        .addLabel('start', 0)
+      // this.loop
+      //   .addLabel('start', 0)
         // pepe
         .fromTo(
           blink,
@@ -526,4 +526,4 @@ export default {
     }
   }
 }
-</style> -->
+</style>
