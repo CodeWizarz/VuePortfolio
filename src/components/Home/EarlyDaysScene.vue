@@ -39,7 +39,7 @@
       </TextBlock> -->
     </SceneSection>
     <SceneSection id="early-days3"> 
-      <TextBlock>
+      <!-- <TextBlock>
         <p>
           We've proudly fueled the starring<br />
           of some big Brazilian names such as
@@ -49,7 +49,7 @@
           >
           among many others...
         </p>
-      </TextBlock>
+      </TextBlock> -->
     </SceneSection> 
   </div>
 </template>
