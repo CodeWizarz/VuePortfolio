@@ -80,18 +80,18 @@ export default {
 
 <style lang="scss">
 .earlyDays {
-  .pepe {
-    position: absolute;
-    z-index: 2;
-    top: 50%;
-    left: 100%;
-    transform: scale(0.4) translate3d(0, -50%, 0);
-    transform-origin: 0 0;
+  // .pepe {
+  //   position: absolute;
+  //   z-index: 2;
+  //   top: 50%;
+  //   left: 100%;
+  //   transform: scale(0.4) translate3d(0, -50%, 0);
+  //   transform-origin: 0 0;
 
-    @media screen and (max-width: 568px) {
-      transform: scale(0.2) translate3d(0, -50%, 0);
-    }
-  }
+  //   @media screen and (max-width: 568px) {
+  //     transform: scale(0.2) translate3d(0, -50%, 0);
+  //   }
+  // }
 
   .clouds {
     position: absolute;
