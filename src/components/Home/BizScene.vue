@@ -40,7 +40,7 @@
         <p>
           Throughout these years i have contributed to hundreds of
           <span class="-big -purple">
-          custom projects, repositories, integrations, and implementation
+          custom projects,repositories,integrations,and implementation
           </span>
           for the microsoft team and it's members.
         </p>

@@ -2,7 +2,7 @@
 
 🧚 Listen!
 
-Before you start, noticed that this website was built in 2018/2019 and made use of solutions available at the time that are no longer the best way of doing things today! Still, I encourage you to check this solution if you are looking for inspiration, but if you are looking for a "better" way of creating animated websites today, please check these references:
+Before you start, notice that this website was built in 2018/2019 and made use of solutions available at the time that are no longer the best way of doing things today! Still, I encourage you to check this solution if you are looking for inspiration, but if you are looking for a "better" way of creating animated websites today, please check these references:
 
 - [GSAP 3](https://greensock.com/3/)
 - [GSAP ScrollTrigger](https://greensock.com/scrolltrigger/)

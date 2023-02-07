@@ -18,12 +18,12 @@
     "label": "CV"
   },
   "description": [
-    "Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.",
-    "From Brazil, based in Barcelona."
+    "Frontend developer heavily influenced by  interactions, and UX. Addicted to music, visual arts, and games.",
+    "From India, based in Bangalore."
   ],
   "subtitles": ["he/him"],
   "skills": [
-    ["Web app architecture", "Strategic thinking", "Storytelling"],
+    ["Web app", "Strategic thinking", "C-S side Exp"],
     ["Frontend", "UX/UI"],
     [
       "JavaScript",
@@ -32,58 +32,57 @@
       "React",
       "Vue",
       "Node",
-      "Canvas",
-      "SVG",
-      "WebGL"
+      "SVG"
+    
     ],
-    ["Figma", "Photoshop", "Illustrator"]
+    ["Figma", "Blender"]
   ],
   "experiences": [
     {
-      "position": "Senior Frontend Engineer",
-      "company": "Activision Blizzard King",
+      "position": "Lead Frontend Engineer",
+      "company": "Proof Of Memes",
       "time": "* current"
     },
-    {
-      "position": "Senior Frontend Engineer",
-      "company": "ON AG",
-      "time": "2020-2022"
-    },
-    {
-      "position": "Senior Frontend Engineer",
-      "company": "fromAtoB",
-      "time": "2019-2020"
-    },
-    {
-      "position": "Head of Frontend & UX",
-      "company": "Microsofy",
-      "time": "2023 - 2024"
-    },
-    {
-      "position": "Senior Frontend Developer",
-      "company": "Tray",
-      "time": "2008 - 2010"
-    },
-    {
-      "position": "Web Designer",
-      "company": "E2W",
-      "time": "2006 - 2008"
-    },
-    {
-      "position": "Freelancer",
-      "company": "Illustrations & Web development"
-    }
+    // {
+    //   "position": "Senior Frontend Engineer",
+    //   "company": "ON AG",
+    //   "time": "2020-2022"
+    // },
+    // {
+    //   "position": "Senior Frontend Engineer",
+    //   "company": "fromAtoB",
+    //   "time": "2019-2020"
+    // },
+    // {
+    //   "position": "Head of Frontend & UX",
+    //   "company": "Microsofy",
+    //   "time": "2023 - 2024"
+    // },
+    // {
+    //   "position": "Senior Frontend Developer",
+    //   "company": "Tray",
+    //   "time": "2008 - 2010"
+    // },
+    // {
+    //   "position": "Web Designer",
+    //   "company": "E2W",
+    //   "time": "2006 - 2008"
+    // },
+    // {
+    //   "position": "Freelancer",
+    //   "company": "Illustrations & Web development"
+    // }
   ],
   "languages": {
     "fluent": [
       ["en-US", "English"],
-      ["pt-BR", "Português"]
+      ["pt-BR", "German"]
     ],
     "intermediate": [["es-ES", "Español"]],
-    "basic": [
-      ["de-DE", "Deutsch"],
-      ["ca-ES", "Català"]
-    ]
+    // "basic": [
+    //   ["de-DE", "Deutsch"],
+    //   ["ca-ES", "Català"]
+    // ]
   },
-  "busy": ["Pet my dog", "Spanish guitar", "Games", "#eleNÃO"]
+  "busy": ["Pet my cat", "Light guitar", "Games", "#olá", "Hallo"]
 }

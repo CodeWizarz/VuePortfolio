@@ -8,7 +8,7 @@ Vue.use(Router)
 const TITLE = 'Wizz.while'
 const URL = 'https://wizarz.netlify.app/' // site url.still updating empty for now
 const ABOUT =
-  'Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.'
+  'Frontend developer heavily influenced by  interactions, and UX. Addicted to music, visual arts, and games.'
 
 const router = new Router({
   mode: 'history',

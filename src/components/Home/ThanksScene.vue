@@ -17,7 +17,7 @@
           </ul>
           <ul class="col">
             <li class="ico">~</li>
-            <a class="col"  href="https://github.com/iuridepaula"><li >Reference from</li></a>
+            <a class="col" target="_blank" href="https://github.com/iuridepaula"><li >Reference from</li></a>
             <li>Endless dependencies</li>
             <li>60-day span</li>
           </ul>
