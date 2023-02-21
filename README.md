@@ -1,4 +1,4 @@
-# iuri.is()
+# wizz.while()
 
 🧚 Listen!
 
